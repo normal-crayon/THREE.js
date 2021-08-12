@@ -7,3 +7,5 @@ Stack:
 
 <br>
 has Sun, mercury, venus, earth, mars
+<br>
+![system](./images/solar_system.png)
